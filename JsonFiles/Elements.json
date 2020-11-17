@@ -1,0 +1,7 @@
+{
+  "Registration": {
+    "username_txt_id": "username",
+    "password_txt_id": "password",
+    "login_btn_id": "form_submit"
+  }
+}
